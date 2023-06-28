@@ -1,0 +1,17 @@
+{
+  "name": "testesapibytecode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "cy:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.16.0",
+    "cypress-plugin-api": "^2.11.1"
+  }
+}
